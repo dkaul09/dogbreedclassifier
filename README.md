@@ -1,4 +1,4 @@
-# dogbreedclassifier
+# MultiClass Dog Breed Classifier
 
 <ins>**Project Description**<ins>
 
